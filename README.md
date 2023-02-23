@@ -1,2 +1,2 @@
 # 162264
-Przedmiot Fakultatywy
+Przedmiot Fakultatywny
