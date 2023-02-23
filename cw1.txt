@@ -1,0 +1,8 @@
+Budżet (czas) - 100-160 roboczogodzin
+Cel projektu- aplikacja webowa - mapa kebabów
+Odpowiedzialności:
+front-end
+back-end
+bazodaniowiec
+ux/ui
+szef projektu
