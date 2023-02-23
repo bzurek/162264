@@ -6,3 +6,28 @@ back-end
 bazodaniowiec
 ux/ui
 szef projektu
+
+Zad2:
+Wizja:
+Aplikacja wspomaga studentów w znalezieniu najlepszego kebaba w okolicy.
+Wartość biznesowa:
+Możliwość znalezienia nowych miejsc pracy dla osób zajmujących się programowaniem.
+Zakres:
+Aplikacja wyszukuje najbliższe punkty z kebabem, następnie wyznacza do nich trasę z punktu, w którym znajduje się osoba.
+Role w projekcie:
+-Sponsorzy
+-Menadżer projektu
+-Programiści
+-Osoby testujące oprogramowanie
+KPI - wskaźnik postępu
+kamienie milowe
+-Plan projektu
+-Development Research (Jakie technologie itd.)
+-Mockup UI
+-Produkcja: 
+  -Wersja testowa aplikacji (Podstawowe funkcje)
+  -Wdrożenie baz danych
+  -Pełny interface
+-Testy
+-UX Improvements 
+-New Features (Fukcje dodatkowe)
