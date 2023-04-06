@@ -1,0 +1,13 @@
+Szanowni Państwo, 
+
+  Zapraszam na spotkanie w sprawie opóźnienia w oczekiwanym ukończeniu projektu. Spotkanie odbędzie się
+w najbliższą środę na platformie MsTeams. Z uwagi na wysoki powód spotkania proszę o obecność.
+  Na spotkaniu omówimy problem opóźnienia. Zaplanowane jest przedstawienie propozycji
+rozwiązań, które pomogą skrócić czas zakończenia projektu. Żeby nie tracić 
+czasu na spotkaniu, proszę pamiętać o przygotowaniu planu projektu, jego dokumentacji oraz wyników i raportów z ostatnich
+sprintów.
+  Proszę pamiętać o sprawnym niezbędnym sprzęcie - mikrofon. Potwierdzenie obecności lub zgłoszenie ewentualnym problemów
+w jak najszybszym terminie.
+
+Z poważaniem,
+<koordynator>
